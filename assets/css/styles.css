@@ -1,0 +1,8 @@
+body,
+html {
+    height: 100%;
+}
+
+.error-message {
+    display: none;
+}
